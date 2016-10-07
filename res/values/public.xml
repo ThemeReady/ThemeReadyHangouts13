@@ -1638,8 +1638,25 @@
     <public type="drawable" name="ic_dial_action_call" id="0x7f0204cb" />
     <public type="drawable" name="ab_solid" id="0x7f020000" />
     <public type="drawable" name="abc_ab_share_pack_mtrl_alpha" id="0x7f020002" />
+    <public type="drawable" name="abc_btn_check_to_on_mtrl_000" id="0x7f020006" />
+    <public type="drawable" name="abc_btn_check_to_on_mtrl_015" id="0x7f020007" />
+    <public type="drawable" name="abc_btn_radio_to_on_mtrl_000" id="0x7f02000b" />
+    <public type="drawable" name="abc_btn_radio_to_on_mtrl_015" id="0x7f02000c" />
+    <public type="drawable" name="abc_btn_switch_to_on_mtrl_00001" id="0x7f02000d" />
+    <public type="drawable" name="abc_btn_switch_to_on_mtrl_00012" id="0x7f02000e" />
     <public type="drawable" name="abc_cab_background_top_mtrl_alpha" id="0x7f020011" />
     <public type="drawable" name="abc_ic_commit_search_api_mtrl_alpha" id="0x7f020018" />
+    <public type="drawable" name="abc_ic_menu_copy_mtrl_am_alpha" id="0x7f02001a" />
+    <public type="drawable" name="abc_ic_menu_cut_mtrl_alpha" id="0x7f02001b" />
+    <public type="drawable" name="abc_ic_menu_paste_mtrl_am_alpha" id="0x7f02001d" />
+    <public type="drawable" name="abc_ic_menu_selectall_mtrl_alpha" id="0x7f02001e" />
+    <public type="drawable" name="abc_ic_menu_share_mtrl_alpha" id="0x7f02001f" />
+    <public type="drawable" name="abc_ic_star_black_16dp" id="0x7f020021" />
+    <public type="drawable" name="abc_ic_star_black_36dp" id="0x7f020022" />
+    <public type="drawable" name="abc_ic_star_black_48dp" id="0x7f020023" />
+    <public type="drawable" name="abc_ic_star_half_black_16dp" id="0x7f020024" />
+    <public type="drawable" name="abc_ic_star_half_black_36dp" id="0x7f020025" />
+    <public type="drawable" name="abc_ic_star_half_black_48dp" id="0x7f020026" />
     <public type="drawable" name="abc_list_divider_mtrl_alpha" id="0x7f02002a" />
     <public type="drawable" name="abc_list_focused_holo" id="0x7f02002b" />
     <public type="drawable" name="abc_list_longpressed_holo" id="0x7f02002c" />
@@ -1650,9 +1667,16 @@
     <public type="drawable" name="abc_menu_hardkey_panel_mtrl_mult" id="0x7f020035" />
     <public type="drawable" name="abc_popup_background_mtrl_mult" id="0x7f020036" />
     <public type="drawable" name="abc_scrubber_control_off_mtrl_alpha" id="0x7f02003a" />
+    <public type="drawable" name="abc_scrubber_control_to_pressed_mtrl_000" id="0x7f02003b" />
+    <public type="drawable" name="abc_scrubber_control_to_pressed_mtrl_005" id="0x7f02003c" />
     <public type="drawable" name="abc_scrubber_primary_mtrl_alpha" id="0x7f02003d" />
     <public type="drawable" name="abc_scrubber_track_mtrl_alpha" id="0x7f02003e" />
+    <public type="drawable" name="abc_spinner_mtrl_am_alpha" id="0x7f020042" />
+    <public type="drawable" name="abc_switch_track_mtrl_alpha" id="0x7f020045" />
+    <public type="drawable" name="abc_tab_indicator_mtrl_alpha" id="0x7f020047" />
+    <public type="drawable" name="abc_text_select_handle_left_mtrl_alpha" id="0x7f020049" />
     <public type="drawable" name="abc_text_select_handle_middle_mtrl_alpha" id="0x7f02004a" />
+    <public type="drawable" name="abc_text_select_handle_right_mtrl_alpha" id="0x7f02004b" />
     <public type="drawable" name="abc_textfield_activated_mtrl_alpha" id="0x7f02004c" />
     <public type="drawable" name="abc_textfield_default_mtrl_alpha" id="0x7f02004d" />
     <public type="drawable" name="abc_textfield_search_activated_mtrl_alpha" id="0x7f02004e" />
@@ -1660,7 +1684,10 @@
     <public type="drawable" name="actionbar_translucent" id="0x7f020058" />
     <public type="drawable" name="active_status_bubble_left" id="0x7f020059" />
     <public type="drawable" name="active_status_bubble_otr_left" id="0x7f02005b" />
+    <public type="drawable" name="arrow_tooltip" id="0x7f020062" />
     <public type="drawable" name="avatar_blue_120" id="0x7f020064" />
+    <public type="drawable" name="avatar_placeholder" id="0x7f020068" />
+    <public type="drawable" name="bg_card_white_rect" id="0x7f02006d" />
     <public type="drawable" name="bg_menu_opt_pointer" id="0x7f020072" />
     <public type="drawable" name="bg_tooltip_grey700_44" id="0x7f020073" />
     <public type="drawable" name="bt_fab_4dpshadow" id="0x7f020078" />
@@ -1708,6 +1735,8 @@
     <public type="drawable" name="default_avatar_large" id="0x7f0200b2" />
     <public type="drawable" name="default_business_avatar" id="0x7f0200b3" />
     <public type="drawable" name="default_business_avatar_large" id="0x7f0200b4" />
+    <public type="drawable" name="device_indicator" id="0x7f0200bb" />
+    <public type="drawable" name="device_indicator_off" id="0x7f0200bc" />
     <public type="drawable" name="divider_holo_light" id="0x7f0200c0" />
     <public type="drawable" name="ellipsis_20" id="0x7f0200c9" />
     <public type="drawable" name="ellipsis_21" id="0x7f0200ca" />
@@ -1767,8 +1796,18 @@
     <public type="drawable" name="ellipsis_light_46" id="0x7f020101" />
     <public type="drawable" name="ellipsis_light_47" id="0x7f020102" />
     <public type="drawable" name="ellipsis_light_48" id="0x7f020103" />
+    <public type="drawable" name="empty_archive" id="0x7f02047d" />
+    <public type="drawable" name="empty_blocked" id="0x7f02047e" />
+    <public type="drawable" name="empty_contacts" id="0x7f02047f" />
+    <public type="drawable" name="empty_conversations" id="0x7f020480" />
+    <public type="drawable" name="empty_invites" id="0x7f020482" />
+    <public type="drawable" name="expander_close_dark" id="0x7f020483" />
     <public type="drawable" name="expander_close_holo_light" id="0x7f020484" />
+    <public type="drawable" name="expander_open_dark" id="0x7f020486" />
     <public type="drawable" name="expander_open_holo_light" id="0x7f020487" />
+    <public type="drawable" name="googlelogo_dark20_color_132x44" id="0x7f020491" />
+    <public type="drawable" name="googlelogo_dark20_color_184x60" id="0x7f020492" />
+    <public type="drawable" name="hangouts_badge" id="0x7f0204a2" />
     <public type="drawable" name="ic_action_feedback_high" id="0x7f0204a3" />
     <public type="drawable" name="ic_action_feedback_low" id="0x7f0204a4" />
     <public type="drawable" name="ic_active_status_call" id="0x7f0204a5" />
@@ -1776,6 +1815,7 @@
     <public type="drawable" name="ic_active_status_div" id="0x7f0204a7" />
     <public type="drawable" name="ic_active_status_laptop_white" id="0x7f0204a8" />
     <public type="drawable" name="ic_active_status_video" id="0x7f0204a9" />
+    <public type="drawable" name="ic_add" id="0x7f0204aa" />
     <public type="drawable" name="ic_attachment_dark" id="0x7f0204ad" />
     <public type="drawable" name="ic_badge_blocked_gray" id="0x7f0204ae" />
     <public type="drawable" name="ic_badge_circles_gray" id="0x7f0204b0" />
@@ -1789,6 +1829,7 @@
     <public type="drawable" name="ic_call_outgoing_holo_dark" id="0x7f0204b9" />
     <public type="drawable" name="ic_cancel_gray" id="0x7f0204ba" />
     <public type="drawable" name="ic_cancel_light" id="0x7f0204bb" />
+    <public type="drawable" name="ic_carrier_sms_status_badge" id="0x7f0204bc" />
     <public type="drawable" name="ic_chat_light" id="0x7f0204be" />
     <public type="drawable" name="ic_chat_light_disabled" id="0x7f0204bf" />
     <public type="drawable" name="ic_checkmark_dark" id="0x7f0204c0" />
@@ -1801,7 +1842,9 @@
     <public type="drawable" name="ic_close_cancel_white" id="0x7f0204c8" />
     <public type="drawable" name="ic_dial_action_add_balance" id="0x7f0204ca" />
     <public type="drawable" name="ic_dial_action_delete" id="0x7f0204cc" />
+    <public type="drawable" name="ic_dial_empty_recent_calls" id="0x7f0204cd" />
     <public type="drawable" name="ic_dialpad" id="0x7f0204ce" />
+    <public type="drawable" name="ic_dialpad_header" id="0x7f0204d0" />
     <public type="drawable" name="ic_domain_grey_12" id="0x7f0204d1" />
     <public type="drawable" name="ic_effects_light_activated" id="0x7f0204d2" />
     <public type="drawable" name="ic_effects_light_disabled" id="0x7f0204d3" />
@@ -1823,6 +1866,8 @@
     <public type="drawable" name="ic_exit_light_disabled" id="0x7f0204e9" />
     <public type="drawable" name="ic_exit_red" id="0x7f0204ea" />
     <public type="drawable" name="ic_exit_red_disabled" id="0x7f0204eb" />
+    <public type="drawable" name="ic_fi_logo_40dp" id="0x7f0204ed" />
+    <public type="drawable" name="ic_gv_sms_status_badge" id="0x7f0204f0" />
     <public type="drawable" name="ic_handset_dk" id="0x7f0204f1" />
     <public type="drawable" name="ic_hangout_gray" id="0x7f0204f2" />
     <public type="drawable" name="ic_hangout_missed_gray" id="0x7f0204f5" />
@@ -1832,6 +1877,7 @@
     <public type="drawable" name="ic_ignore_dark" id="0x7f0204ff" />
     <public type="drawable" name="ic_ime_dark" id="0x7f020500" />
     <public type="drawable" name="ic_invite_avatar" id="0x7f020501" />
+    <public type="drawable" name="ic_laptop_14dp" id="0x7f020502" />
     <public type="drawable" name="ic_leave_gray" id="0x7f020503" />
     <public type="drawable" name="ic_map_pin" id="0x7f020505" />
     <public type="drawable" name="ic_menu_add_people" id="0x7f020507" />
@@ -1856,6 +1902,8 @@
     <public type="drawable" name="ic_person_add_light_disabled" id="0x7f020520" />
     <public type="drawable" name="ic_person_light_24dp" id="0x7f020521" />
     <public type="drawable" name="ic_phone_add" id="0x7f020522" />
+    <public type="drawable" name="ic_phone_android_14dp" id="0x7f020523" />
+    <public type="drawable" name="ic_phonecall_14dp" id="0x7f020524" />
     <public type="drawable" name="ic_remove_attachment" id="0x7f020526" />
     <public type="drawable" name="ic_reply" id="0x7f020527" />
     <public type="drawable" name="ic_ring_accept_activated" id="0x7f020529" />
@@ -1910,13 +1958,23 @@
     <public type="drawable" name="ic_sms_delivery_not_delivered" id="0x7f020561" />
     <public type="drawable" name="ic_sms_delivery_ok" id="0x7f020562" />
     <public type="drawable" name="ic_sms_status_bubble_list" id="0x7f020563" />
+    <public type="drawable" name="ic_stickers" id="0x7f020564" />
+    <public type="drawable" name="ic_switch_camera_white_24" id="0x7f020565" />
+    <public type="drawable" name="ic_tablet_14dp" id="0x7f020566" />
     <public type="drawable" name="ic_vcard_grn" id="0x7f020569" />
+    <public type="drawable" name="ic_video_14dp" id="0x7f02056a" />
     <public type="drawable" name="ic_video_muted_light" id="0x7f02056b" />
     <public type="drawable" name="ic_video_switch_light_disabled" id="0x7f02056c" />
     <public type="drawable" name="ic_video_switch_light_normal" id="0x7f02056d" />
     <public type="drawable" name="ic_vm_read" id="0x7f02056e" />
     <public type="drawable" name="ic_warning_red" id="0x7f02056f" />
     <public type="drawable" name="list_selector_disabled_holo_dark" id="0x7f02057a" />
+    <public type="drawable" name="location_suggest" id="0x7f02057d" />
+    <public type="drawable" name="manage_accounts_icon" id="0x7f02057f" />
+    <public type="drawable" name="msg_bubble_incoming" id="0x7f020580" />
+    <public type="drawable" name="msg_bubble_incoming_grouped" id="0x7f020582" />
+    <public type="drawable" name="msg_bubble_outgoing" id="0x7f020584" />
+    <public type="drawable" name="msg_bubble_outgoing_grouped" id="0x7f020586" />
     <public type="drawable" name="offnetwork_invite" id="0x7f020596" />
     <public type="drawable" name="offnetwork_sticker_invite" id="0x7f020597" />
     <public type="drawable" name="offnetwork_video_invite" id="0x7f020598" />
@@ -1925,88 +1983,6 @@
     <public type="drawable" name="ov_play_video_48" id="0x7f0205a2" />
     <public type="drawable" name="panel_undo" id="0x7f0205a4" />
     <public type="drawable" name="photo_panel_shadow" id="0x7f0205a9" />
-    <public type="drawable" name="seekbar_control_disabled_holo" id="0x7f020660" />
-    <public type="drawable" name="seekbar_control_focused_holo" id="0x7f020661" />
-    <public type="drawable" name="seekbar_control_normal_holo" id="0x7f020662" />
-    <public type="drawable" name="seekbar_control_pressed_holo" id="0x7f020663" />
-    <public type="drawable" name="seekbar_primary_holo_light" id="0x7f020664" />
-    <public type="drawable" name="seekbar_track_holo_light" id="0x7f020665" />
-    <public type="drawable" name="shadow_up_small" id="0x7f020669" />
-    <public type="drawable" name="stat_notify_general" id="0x7f02066d" />
-    <public type="drawable" name="stat_notify_hangout" id="0x7f02066e" />
-    <public type="drawable" name="stat_notify_hangout_missed" id="0x7f02066f" />
-    <public type="drawable" name="stat_notify_hangout_missed_call" id="0x7f020670" />
-    <public type="drawable" name="stat_notify_hangout_warning" id="0x7f020671" />
-    <public type="drawable" name="stat_notify_voice_hangout" id="0x7f020672" />
-    <public type="drawable" name="sym_keyboard_delete_holo" id="0x7f020679" />
-    <public type="drawable" name="sys_msg_bg_normal" id="0x7f02067a" />
-    <public type="drawable" name="tab_btn_bg_normal" id="0x7f02067c" />
-    <public type="drawable" name="tab_btn_bg_pressed" id="0x7f02067d" />
-    <public type="drawable" name="tab_selected" id="0x7f02067f" />
-    <public type="drawable" name="tab_selected_emeraldsea" id="0x7f020680" />
-    <public type="drawable" name="tab_selected_focused_emeraldsea" id="0x7f020681" />
-    <public type="drawable" name="tab_selected_pressed_emeraldsea" id="0x7f020682" />
-    <public type="drawable" name="tab_unselected" id="0x7f020683" />
-    <public type="drawable" name="tab_unselected_focused_emeraldsea" id="0x7f020684" />
-    <public type="drawable" name="tab_unselected_pressed_emeraldsea" id="0x7f020685" />
-    <public type="drawable" name="abc_btn_check_to_on_mtrl_000" id="0x7f020006" />
-    <public type="drawable" name="abc_btn_check_to_on_mtrl_015" id="0x7f020007" />
-    <public type="drawable" name="abc_btn_radio_to_on_mtrl_000" id="0x7f02000b" />
-    <public type="drawable" name="abc_btn_radio_to_on_mtrl_015" id="0x7f02000c" />
-    <public type="drawable" name="abc_btn_switch_to_on_mtrl_00001" id="0x7f02000d" />
-    <public type="drawable" name="abc_btn_switch_to_on_mtrl_00012" id="0x7f02000e" />
-    <public type="drawable" name="abc_ic_menu_copy_mtrl_am_alpha" id="0x7f02001a" />
-    <public type="drawable" name="abc_ic_menu_cut_mtrl_alpha" id="0x7f02001b" />
-    <public type="drawable" name="abc_ic_menu_paste_mtrl_am_alpha" id="0x7f02001d" />
-    <public type="drawable" name="abc_ic_menu_selectall_mtrl_alpha" id="0x7f02001e" />
-    <public type="drawable" name="abc_ic_menu_share_mtrl_alpha" id="0x7f02001f" />
-    <public type="drawable" name="abc_ic_star_black_16dp" id="0x7f020021" />
-    <public type="drawable" name="abc_ic_star_black_36dp" id="0x7f020022" />
-    <public type="drawable" name="abc_ic_star_black_48dp" id="0x7f020023" />
-    <public type="drawable" name="abc_ic_star_half_black_16dp" id="0x7f020024" />
-    <public type="drawable" name="abc_ic_star_half_black_36dp" id="0x7f020025" />
-    <public type="drawable" name="abc_ic_star_half_black_48dp" id="0x7f020026" />
-    <public type="drawable" name="abc_scrubber_control_to_pressed_mtrl_000" id="0x7f02003b" />
-    <public type="drawable" name="abc_scrubber_control_to_pressed_mtrl_005" id="0x7f02003c" />
-    <public type="drawable" name="abc_spinner_mtrl_am_alpha" id="0x7f020042" />
-    <public type="drawable" name="abc_switch_track_mtrl_alpha" id="0x7f020045" />
-    <public type="drawable" name="abc_tab_indicator_mtrl_alpha" id="0x7f020047" />
-    <public type="drawable" name="abc_text_select_handle_left_mtrl_alpha" id="0x7f020049" />
-    <public type="drawable" name="abc_text_select_handle_right_mtrl_alpha" id="0x7f02004b" />
-    <public type="drawable" name="arrow_tooltip" id="0x7f020062" />
-    <public type="drawable" name="avatar_placeholder" id="0x7f020068" />
-    <public type="drawable" name="bg_card_white_rect" id="0x7f02006d" />
-    <public type="drawable" name="device_indicator" id="0x7f0200bb" />
-    <public type="drawable" name="device_indicator_off" id="0x7f0200bc" />
-    <public type="drawable" name="empty_archive" id="0x7f02047d" />
-    <public type="drawable" name="empty_blocked" id="0x7f02047e" />
-    <public type="drawable" name="empty_contacts" id="0x7f02047f" />
-    <public type="drawable" name="empty_conversations" id="0x7f020480" />
-    <public type="drawable" name="empty_invites" id="0x7f020482" />
-    <public type="drawable" name="expander_close_dark" id="0x7f020483" />
-    <public type="drawable" name="expander_open_dark" id="0x7f020486" />
-    <public type="drawable" name="googlelogo_dark20_color_132x44" id="0x7f020491" />
-    <public type="drawable" name="googlelogo_dark20_color_184x60" id="0x7f020492" />
-    <public type="drawable" name="hangouts_badge" id="0x7f0204a2" />
-    <public type="drawable" name="ic_add" id="0x7f0204aa" />
-    <public type="drawable" name="ic_carrier_sms_status_badge" id="0x7f0204bc" />
-    <public type="drawable" name="ic_dial_empty_recent_calls" id="0x7f0204cd" />
-    <public type="drawable" name="ic_dialpad_header" id="0x7f0204d0" />
-    <public type="drawable" name="ic_fi_logo_40dp" id="0x7f0204ed" />
-    <public type="drawable" name="ic_gv_sms_status_badge" id="0x7f0204f0" />
-    <public type="drawable" name="ic_laptop_14dp" id="0x7f020502" />
-    <public type="drawable" name="ic_phone_android_14dp" id="0x7f020523" />
-    <public type="drawable" name="ic_phonecall_14dp" id="0x7f020524" />
-    <public type="drawable" name="ic_stickers" id="0x7f020564" />
-    <public type="drawable" name="ic_switch_camera_white_24" id="0x7f020565" />
-    <public type="drawable" name="ic_tablet_14dp" id="0x7f020566" />
-    <public type="drawable" name="ic_video_14dp" id="0x7f02056a" />
-    <public type="drawable" name="location_suggest" id="0x7f02057d" />
-    <public type="drawable" name="manage_accounts_icon" id="0x7f02057f" />
-    <public type="drawable" name="msg_bubble_incoming" id="0x7f020580" />
-    <public type="drawable" name="msg_bubble_incoming_grouped" id="0x7f020582" />
-    <public type="drawable" name="msg_bubble_outgoing" id="0x7f020584" />
-    <public type="drawable" name="msg_bubble_outgoing_grouped" id="0x7f020586" />
     <public type="drawable" name="places_ic_clear" id="0x7f0205b0" />
     <public type="drawable" name="places_ic_search" id="0x7f0205b1" />
     <public type="drawable" name="powered_by_google_dark" id="0x7f0205b2" />
@@ -2163,6 +2139,30 @@
     <public type="drawable" name="quantum_ic_volume_up_white_24" id="0x7f02064d" />
     <public type="drawable" name="quantum_logo_avatar_square_blue_color_192" id="0x7f02064f" />
     <public type="drawable" name="search_noresult_color" id="0x7f02065f" />
+    <public type="drawable" name="seekbar_control_disabled_holo" id="0x7f020660" />
+    <public type="drawable" name="seekbar_control_focused_holo" id="0x7f020661" />
+    <public type="drawable" name="seekbar_control_normal_holo" id="0x7f020662" />
+    <public type="drawable" name="seekbar_control_pressed_holo" id="0x7f020663" />
+    <public type="drawable" name="seekbar_primary_holo_light" id="0x7f020664" />
+    <public type="drawable" name="seekbar_track_holo_light" id="0x7f020665" />
+    <public type="drawable" name="shadow_up_small" id="0x7f020669" />
+    <public type="drawable" name="stat_notify_general" id="0x7f02066d" />
+    <public type="drawable" name="stat_notify_hangout" id="0x7f02066e" />
+    <public type="drawable" name="stat_notify_hangout_missed" id="0x7f02066f" />
+    <public type="drawable" name="stat_notify_hangout_missed_call" id="0x7f020670" />
+    <public type="drawable" name="stat_notify_hangout_warning" id="0x7f020671" />
+    <public type="drawable" name="stat_notify_voice_hangout" id="0x7f020672" />
+    <public type="drawable" name="sym_keyboard_delete_holo" id="0x7f020679" />
+    <public type="drawable" name="sys_msg_bg_normal" id="0x7f02067a" />
+    <public type="drawable" name="tab_btn_bg_normal" id="0x7f02067c" />
+    <public type="drawable" name="tab_btn_bg_pressed" id="0x7f02067d" />
+    <public type="drawable" name="tab_selected" id="0x7f02067f" />
+    <public type="drawable" name="tab_selected_emeraldsea" id="0x7f020680" />
+    <public type="drawable" name="tab_selected_focused_emeraldsea" id="0x7f020681" />
+    <public type="drawable" name="tab_selected_pressed_emeraldsea" id="0x7f020682" />
+    <public type="drawable" name="tab_unselected" id="0x7f020683" />
+    <public type="drawable" name="tab_unselected_focused_emeraldsea" id="0x7f020684" />
+    <public type="drawable" name="tab_unselected_pressed_emeraldsea" id="0x7f020685" />
     <public type="drawable" name="type_indicator" id="0x7f02068a" />
     <public type="mipmap" name="product_logo_hangouts_color_48" id="0x7f030000" />
     <public type="mipmap" name="product_logo_hangouts_launcher_color_48" id="0x7f030001" />

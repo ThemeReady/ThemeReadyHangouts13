@@ -246,7 +246,7 @@
 
     iget-object v1, p0, Lgpg;->d:Landroid/content/res/Resources;
 
-    const v2, 0x106000b
+    const v2, 0x7f0e0221 # @color/button_material_light
 
     invoke-virtual {v1, v2}, Landroid/content/res/Resources;->getColor(I)I
 

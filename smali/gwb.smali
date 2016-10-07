@@ -582,7 +582,7 @@
 
 .field public static final ep:I = 0x7f0e00b3
 
-.field public static final eq:I = 0x7f0e00a4
+.field public static final eq:I = 0x7f0e00aa # @color/bg_item_selected
 
 .field public static final er:I = 0x7f0e0297
 
@@ -590,7 +590,7 @@
 
 .field public static final et:I = 0x7f0e0298
 
-.field public static final eu:I = 0x7f0e024e
+.field public static final eu:I = 0x7f0e0220 # @color/button_material_dark
 
 .field public static final ev:I = 0x7f0e02b6
 
@@ -1426,7 +1426,7 @@
 
 .field public static final mu:I = 0x7f04009f
 
-.field public static final mv:I = 0x7f0e00cb
+.field public static final mv:I = 0x7f0e0087 # @color/default_bg
 
 .field public static final mw:I = 0x7f0b0099
 
