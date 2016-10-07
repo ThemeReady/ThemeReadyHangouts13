@@ -1,0 +1,105 @@
+.class final Ldmw;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# instance fields
+.field private final a:Lcxd;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 2
+
+    .prologue
+    .line 19
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 20
+    new-instance v0, Lcxe;
+
+    invoke-direct {v0}, Lcxe;-><init>()V
+
+    const-string v1, "IncomingRingActivity"
+
+    .line 22
+    invoke-virtual {v0, v1}, Lcxe;->a(Ljava/lang/String;)Lcxe;
+
+    move-result-object v0
+
+    const-string v1, "New Lock Screen Incoming Ring UI"
+
+    .line 23
+    invoke-virtual {v0, v1}, Lcxe;->b(Ljava/lang/String;)Lcxe;
+
+    move-result-object v0
+
+    const/4 v1, 0x0
+
+    .line 24
+    invoke-virtual {v0, v1}, Lcxe;->a(Z)Lcxe;
+
+    move-result-object v0
+
+    .line 25
+    invoke-virtual {v0}, Lcxe;->a()Lcxd;
+
+    move-result-object v0
+
+    iput-object v0, p0, Ldmw;->a:Lcxd;
+
+    .line 26
+    return-void
+.end method
+
+
+# virtual methods
+.method public a(Landroid/content/Context;)Ldmt;
+    .locals 3
+
+    .prologue
+    .line 35
+    iget-object v0, p0, Ldmw;->a:Lcxd;
+
+    const-class v1, Ldmu;
+
+    const-class v2, Ldmv;
+
+    invoke-interface {v0, p1, v1, v2}, Lcxd;->a(Landroid/content/Context;Ljava/lang/Class;Ljava/lang/Class;)Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Ldmt;
+
+    return-object v0
+.end method
+
+.method public a()[Lcxd;
+    .locals 3
+
+    .prologue
+    .line 30
+    const/4 v0, 0x1
+
+    new-array v0, v0, [Lcxd;
+
+    const/4 v1, 0x0
+
+    iget-object v2, p0, Ldmw;->a:Lcxd;
+
+    aput-object v2, v0, v1
+
+    return-object v0
+.end method
+
+.method public b()Ldmu;
+    .locals 1
+
+    .prologue
+    .line 41
+    new-instance v0, Ldmx;
+
+    invoke-direct {v0, p0}, Ldmx;-><init>(Ldmw;)V
+
+    return-object v0
+.end method
